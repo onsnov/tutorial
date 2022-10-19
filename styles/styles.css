@@ -20,7 +20,7 @@ body{
 
 /* main-content */
 .main-content {
-    background-color: #FFF;
+    background-color: rgb(255, 255, 255);
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
     padding: 105px 90px 105px 90px;
 }
@@ -51,7 +51,7 @@ body{
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: red;
     width: 400px;
 
 }
